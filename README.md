@@ -61,9 +61,9 @@ xlabel("Power Received");
 ylabel("Gain");
 ```
 ### TABLE:
+
 ![WhatsApp Image 2025-11-26 at 18 50 41_5d92418e](https://github.com/user-attachments/assets/5d7bf2d8-bf72-482f-a016-689c706f0b02)
 
- 
  __Output__:
 <img width="1838" height="965" alt="Screenshot 2025-11-18 112705" src="https://github.com/user-attachments/assets/573f497e-b974-4e7b-9362-d92e2212ac0c" />
 
@@ -72,6 +72,7 @@ ylabel("Gain");
 <img width="1841" height="972" alt="Screenshot 2025-11-18 112807" src="https://github.com/user-attachments/assets/898e5c14-b1d7-4171-96a0-62d8f2073c15" />
 
  __Result__:
+ 
   ![WhatsApp Image 2025-11-26 at 18 56 57_cc491233](https://github.com/user-attachments/assets/72708cab-2e28-4194-82fe-459d0c9c5a9e)
  
 
